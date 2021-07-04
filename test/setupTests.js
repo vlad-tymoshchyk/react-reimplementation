@@ -1,0 +1,2 @@
+window.React = {};
+window.ReactDOM = {};
